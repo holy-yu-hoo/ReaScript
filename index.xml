@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="yuhoo scripts" commit="9deb595035c104eb1dfa521396c06ab71e8bb56b">
+  <category name="FX">
+    <reapack name="yuhoo; last_focused_fx_observer.lua" type="script" desc="Last focused fx observer">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 set last focused fx in project state\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="yuhoo" time="2026-05-24T14:29:43Z">
+        <source main="main">https://github.com/holy-yu-hoo/ReaScript/raw/9deb595035c104eb1dfa521396c06ab71e8bb56b/FX/yuhoo;%20last_focused_fx_observer.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="FX/FX comparer">
+    <reapack name="yuhoo; FX AB comparer.lua" type="script" desc="FX AB comparer">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 using track and take chunk for save fx state for setting see "yuhoo; fx_comparer_settings.lua" in this directory also see actions: Script: yuhoo; Copy active FX preset to no active (FX comparer).lua Script: yuhoo; Delete all no active presets (FX comparer).lua Script: yuhoo; Delete all no active presets for missing effects in project (FX comparer).lua Script: yuhoo; Delete no active preset (FX comparer).lua\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="yuhoo" time="2026-05-24T14:29:43Z">
+        <source main="main">https://github.com/holy-yu-hoo/ReaScript/raw/9deb595035c104eb1dfa521396c06ab71e8bb56b/FX/FX%20comparer/yuhoo;%20FX%20AB%20comparer.lua</source>
+        <source main="main" file="yuhoo; Copy active FX preset to no active (FX comparer).lua">https://github.com/holy-yu-hoo/ReaScript/raw/9deb595035c104eb1dfa521396c06ab71e8bb56b/FX/FX%20comparer/yuhoo;%20Copy%20active%20FX%20preset%20to%20no%20active%20(FX%20comparer).lua</source>
+        <source main="main" file="yuhoo; Delete all no active presets (FX comparer).lua">https://github.com/holy-yu-hoo/ReaScript/raw/9deb595035c104eb1dfa521396c06ab71e8bb56b/FX/FX%20comparer/yuhoo;%20Delete%20all%20no%20active%20presets%20(FX%20comparer).lua</source>
+        <source main="main" file="yuhoo; Delete all no active presets for missing effects in project (FX comparer).lua">https://github.com/holy-yu-hoo/ReaScript/raw/9deb595035c104eb1dfa521396c06ab71e8bb56b/FX/FX%20comparer/yuhoo;%20Delete%20all%20no%20active%20presets%20for%20missing%20effects%20in%20project%20(FX%20comparer).lua</source>
+        <source main="main" file="yuhoo; Delete no active preset (FX comparer).lua">https://github.com/holy-yu-hoo/ReaScript/raw/9deb595035c104eb1dfa521396c06ab71e8bb56b/FX/FX%20comparer/yuhoo;%20Delete%20no%20active%20preset%20(FX%20comparer).lua</source>
+        <source file="yuhoo; fx_comparer_settings.lua">https://github.com/holy-yu-hoo/ReaScript/raw/9deb595035c104eb1dfa521396c06ab71e8bb56b/FX/FX%20comparer/yuhoo;%20fx_comparer_settings.lua</source>
+        <source file="../yuhoo; last_focused_fx_observer_settings.lua">https://github.com/holy-yu-hoo/ReaScript/raw/9deb595035c104eb1dfa521396c06ab71e8bb56b/FX/yuhoo;%20last_focused_fx_observer_settings.lua</source>
+        <source file="../../Functions/yuhoo; functions.lua">https://github.com/holy-yu-hoo/ReaScript/raw/9deb595035c104eb1dfa521396c06ab71e8bb56b/Functions/yuhoo;%20functions.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
